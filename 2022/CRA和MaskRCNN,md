@@ -1,0 +1,16 @@
+# 相关链接
+GAN图像修复模型论文参考链接如下：
+[Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting](https://arxiv.org/abs/2005.09704#/developer/mindx-sdk/_blank)
+
+GAN图像修复原始模型部署链接如下：
+[Image Inpainting Project based on CVPR 2020 Oral Paper on HiFill](https://github.com/atlas200dk/sample-imageinpainting-hifill#/developer/mindx-sdk/_blank)
+
+MaskRCNN实例分割原始模型链接如下：
+https://www.hiascend.com/zh/software/modelzoo/models/detail/C/5b5232e55ca04b81af264d9600cc8bd3
+
+MaskRCNN实例分割相关参考链接如下：
+```
+https://arxiv.org/pdf/1703.06870.pdf
+https://blog.csdn.net/wangdongwei0/article/details/83110305/
+https://blog.csdn.net/qq_37392244/article/details/88844681
+```
